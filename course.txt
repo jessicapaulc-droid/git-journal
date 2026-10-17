@@ -1,1 +1,1 @@
-Course: DevOps
+Course: DevOps with Git
